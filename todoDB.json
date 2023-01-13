@@ -1,0 +1,24 @@
+{
+    "Name": "fuzzu",
+    "Date": "2023-01-08",
+    "Today": [
+        {
+            "task_id": 0,
+            "description": "gftj",
+            "scheduled_time": "0900",
+            "status": "DONE"
+        },
+        {
+            "task_id": 1,
+            "description": "vvhhchg",
+            "scheduled_time": "1200",
+            "status": "TBD"
+        },
+        {
+            "task_id": 2,
+            "description": "ffgh",
+            "scheduled_time": "0800",
+            "status": "TBD"
+        }
+    ]
+}
